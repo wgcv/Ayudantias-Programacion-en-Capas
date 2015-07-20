@@ -1,0 +1,5 @@
+c:\users\estudiante\documents\visual studio 2010\Projects\Envio de Correo\Envio de Correo\bin\Envio de Correo.dll
+c:\users\estudiante\documents\visual studio 2010\Projects\Envio de Correo\Envio de Correo\bin\Envio de Correo.pdb
+c:\users\estudiante\documents\visual studio 2010\Projects\Envio de Correo\Envio de Correo\obj\Debug\ResolveAssemblyReference.cache
+c:\users\estudiante\documents\visual studio 2010\Projects\Envio de Correo\Envio de Correo\obj\Debug\Envio de Correo.dll
+c:\users\estudiante\documents\visual studio 2010\Projects\Envio de Correo\Envio de Correo\obj\Debug\Envio de Correo.pdb

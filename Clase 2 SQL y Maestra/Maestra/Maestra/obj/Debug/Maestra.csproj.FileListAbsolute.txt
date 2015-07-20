@@ -1,0 +1,5 @@
+c:\users\estudiante\documents\visual studio 2010\Projects\Maestra\Maestra\bin\Maestra.dll
+c:\users\estudiante\documents\visual studio 2010\Projects\Maestra\Maestra\bin\Maestra.pdb
+c:\users\estudiante\documents\visual studio 2010\Projects\Maestra\Maestra\obj\Debug\ResolveAssemblyReference.cache
+c:\users\estudiante\documents\visual studio 2010\Projects\Maestra\Maestra\obj\Debug\Maestra.dll
+c:\users\estudiante\documents\visual studio 2010\Projects\Maestra\Maestra\obj\Debug\Maestra.pdb

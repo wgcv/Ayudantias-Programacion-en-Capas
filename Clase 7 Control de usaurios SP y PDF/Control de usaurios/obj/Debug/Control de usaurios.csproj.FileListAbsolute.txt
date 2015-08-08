@@ -1,0 +1,7 @@
+c:\users\estudiante\documents\visual studio 2010\Projects\Control de usaurios\Control de usaurios\bin\Control de usaurios.dll
+c:\users\estudiante\documents\visual studio 2010\Projects\Control de usaurios\Control de usaurios\bin\Control de usaurios.pdb
+c:\users\estudiante\documents\visual studio 2010\Projects\Control de usaurios\Control de usaurios\obj\Debug\ResolveAssemblyReference.cache
+c:\users\estudiante\documents\visual studio 2010\Projects\Control de usaurios\Control de usaurios\obj\Debug\Control de usaurios.dll
+c:\users\estudiante\documents\visual studio 2010\Projects\Control de usaurios\Control de usaurios\obj\Debug\Control de usaurios.pdb
+C:\Users\Estudiante\documents\visual studio 2010\Projects\Control de usaurios\Control de usaurios\bin\itextsharp.dll
+C:\Users\Estudiante\documents\visual studio 2010\Projects\Control de usaurios\Control de usaurios\bin\itextsharp.xml

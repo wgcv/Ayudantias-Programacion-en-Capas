@@ -1,0 +1,15 @@
+C:\Users\Estudiante\Documents\Visual Studio 2010\Projects\Maestra_productos\Maestra_productos\bin\Maestra_productos.dll
+C:\Users\Estudiante\Documents\Visual Studio 2010\Projects\Maestra_productos\Maestra_productos\bin\Maestra_productos.pdb
+C:\Users\Estudiante\Documents\Visual Studio 2010\Projects\Maestra_productos\Maestra_productos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Estudiante\Documents\Visual Studio 2010\Projects\Maestra_productos\Maestra_productos\obj\Debug\Maestra_productos.dll
+C:\Users\Estudiante\Documents\Visual Studio 2010\Projects\Maestra_productos\Maestra_productos\obj\Debug\Maestra_productos.pdb
+C:\Users\Estudiante\Documents\Visual Studio 2010\Projects\Maestra_productos(dos capas)\Maestra_productos\bin\Maestra_productos.dll
+C:\Users\Estudiante\Documents\Visual Studio 2010\Projects\Maestra_productos(dos capas)\Maestra_productos\bin\Maestra_productos.pdb
+C:\Users\Estudiante\Documents\Visual Studio 2010\Projects\Maestra_productos(dos capas)\Maestra_productos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Estudiante\Documents\Visual Studio 2010\Projects\Maestra_productos(dos capas)\Maestra_productos\obj\Debug\Maestra_productos.dll
+C:\Users\Estudiante\Documents\Visual Studio 2010\Projects\Maestra_productos(dos capas)\Maestra_productos\obj\Debug\Maestra_productos.pdb
+C:\Users\Estudiante\Documents\Ayudantias Maestra_productos(dos capas)\Maestra_productos\bin\Maestra_productos.dll
+C:\Users\Estudiante\Documents\Ayudantias Maestra_productos(dos capas)\Maestra_productos\bin\Maestra_productos.pdb
+C:\Users\Estudiante\Documents\Ayudantias Maestra_productos(dos capas)\Maestra_productos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Estudiante\Documents\Ayudantias Maestra_productos(dos capas)\Maestra_productos\obj\Debug\Maestra_productos.dll
+C:\Users\Estudiante\Documents\Ayudantias Maestra_productos(dos capas)\Maestra_productos\obj\Debug\Maestra_productos.pdb

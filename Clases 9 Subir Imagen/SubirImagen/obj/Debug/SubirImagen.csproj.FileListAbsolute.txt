@@ -1,0 +1,5 @@
+c:\users\estudiante\documents\visual studio 2010\Projects\SubirImagen\SubirImagen\bin\SubirImagen.dll
+c:\users\estudiante\documents\visual studio 2010\Projects\SubirImagen\SubirImagen\bin\SubirImagen.pdb
+c:\users\estudiante\documents\visual studio 2010\Projects\SubirImagen\SubirImagen\obj\Debug\ResolveAssemblyReference.cache
+c:\users\estudiante\documents\visual studio 2010\Projects\SubirImagen\SubirImagen\obj\Debug\SubirImagen.dll
+c:\users\estudiante\documents\visual studio 2010\Projects\SubirImagen\SubirImagen\obj\Debug\SubirImagen.pdb
